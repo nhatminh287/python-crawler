@@ -1,31 +1,31 @@
-name,rating
-1.Hue Imperial City (The Citadel),4.5 of 5 bubbles
-2.Tomb of Minh Mang,4.5 of 5 bubbles
-3.Thien Mu Pagoda,4.0 of 5 bubbles
-4.Bach Ma National Park,4.5 of 5 bubbles
-5.Tomb of Tu Duc,4.0 of 5 bubbles
-6.Royal Tombs,4.5 of 5 bubbles
-7.Hue Royal Palace,4.0 of 5 bubbles
-8.Truong Tien Bridge,4.0 of 5 bubbles
-9.Imperial Tomb of Dong Khanh,4.5 of 5 bubbles
-10.Perfume River,3.5 of 5 bubbles
-11.Thanh Toan Bridge,4.5 of 5 bubbles
-12.The Noon Gate (Cua Ngo Mon),4.0 of 5 bubbles
-13.The Mieu Temple,4.5 of 5 bubbles
-14.Tu Dam Pagoda,4.5 of 5 bubbles
-15.Tu Hieu Pagoda,4.5 of 5 bubbles
-16.Thuy Tien Lake,4.5 of 5 bubbles
-17.Gakka Art Gallery,5.0 of 5 bubbles
-18.Thai Hoa Palace,4.0 of 5 bubbles
-19.Nine Dynastic Urns,4.5 of 5 bubbles
-20.Luc Bo Culture Space,5.0 of 5 bubbles
-21.Quoc Hoc Hue High School for the Gifted,4.0 of 5 bubbles
-22.Huyen Tran Princess Temple,4.5 of 5 bubbles
-23.Museum of Royal Antiquities,4.0 of 5 bubbles
-24.Lang Co Beach,4.0 of 5 bubbles
-25.Le Ba Dang Art Museum,4.5 of 5 bubbles
-26.Tam Giang Lagoon,4.5 of 5 bubbles
-27.Cat Tuong Quan Zen House,4.5 of 5 bubbles
-28.Dong Ba Market,3.5 of 5 bubbles
-29.The Flag Tower,3.5 of 5 bubbles
-30.XQ Hand Embroidery,5.0 of 5 bubbles
+name,rating,image
+1.Hue Imperial City (The Citadel),4.5 of 5 bubbles,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/7a/57/7b/vue-interieure.jpg?w=500&h=400&s=1
+2.Tomb of Minh Mang,4.5 of 5 bubbles,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/12/f4/81/received-976772702464930.jpg?w=500&h=-1&s=1
+3.Thien Mu Pagoda,4.0 of 5 bubbles,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/8c/03/ac/another-view-of-the-pagoda.jpg?w=500&h=400&s=1
+4.Bach Ma National Park,4.5 of 5 bubbles,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/d3/92/57/bach-ma-national-park.jpg?w=500&h=400&s=1
+5.Royal Tombs,4.5 of 5 bubbles,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/eb/7f/ef/tombs-in-hue.jpg?w=500&h=400&s=1
+6.Tomb of Tu Duc,4.0 of 5 bubbles,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/df/cc/c2/divers-place.jpg?w=500&h=-1&s=1
+7.Hue Royal Palace,4.0 of 5 bubbles,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/99/9f/e2/forbidden-purple-city.jpg?w=500&h=400&s=1
+8.Imperial Tomb of Dong Khanh,4.5 of 5 bubbles,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/5c/2e/8a/lang-kh-i-d-nh.jpg?w=500&h=-1&s=1
+9.Truong Tien Bridge,4.0 of 5 bubbles,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/46/84/55/truong-tien-bridge.jpg?w=500&h=400&s=1
+10.Perfume River,3.5 of 5 bubbles,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/90/34/78/20170605-172510-largejpg.jpg?w=500&h=400&s=1
+11.Thanh Toan Bridge,4.5 of 5 bubbles,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/3e/13/84/photo2jpg.jpg?w=500&h=-1&s=1
+12.The Noon Gate (Cua Ngo Mon),4.0 of 5 bubbles,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/5b/7b/d6/ng-mon.jpg?w=500&h=400&s=1
+13.The Mieu Temple,4.5 of 5 bubbles,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/5e/92/a5/entrada-templo.jpg?w=500&h=400&s=1
+14.Tu Dam Pagoda,4.5 of 5 bubbles,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/71/d1/2d/caption.jpg?w=500&h=-1&s=1
+15.Tu Hieu Pagoda,4.5 of 5 bubbles,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/2b/66/d3/tu-hieu-pagoda.jpg?w=500&h=-1&s=1
+16.Thuy Tien Lake,4.5 of 5 bubbles,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/f0/fa/1a/20180801-113013-01-largejpg.jpg?w=500&h=-1&s=1
+17.Gakka Art Gallery,5.0 of 5 bubbles,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/e7/9d/5c/gakka-gallery.jpg?w=500&h=400&s=1
+18.Thai Hoa Palace,4.0 of 5 bubbles,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/a5/01/dd/thai-hoa-palace.jpg?w=500&h=400&s=1
+19.Nine Dynastic Urns,4.5 of 5 bubbles,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/4f/82/dc/nice.jpg?w=500&h=-1&s=1
+20.Luc Bo Culture Space,5.0 of 5 bubbles,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/13/63/3a/getlstd-property-photo.jpg?w=500&h=400&s=1
+21.Quoc Hoc Hue High School for the Gifted,4.0 of 5 bubbles,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/7b/46/19/20151107-171416-largejpg.jpg?w=500&h=400&s=1
+22.Tam Giang Lagoon,4.5 of 5 bubbles,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/e8/1c/2d/d-m-chuon-lagoon.jpg?w=500&h=-1&s=1
+23.Huyen Tran Princess Temple,4.5 of 5 bubbles,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/9c/8c/a2/photo5jpg.jpg?w=500&h=-1&s=1
+24.Lang Co Beach,4.0 of 5 bubbles,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/5b/96/1e/img-20180317-130917-largejpg.jpg?w=500&h=-1&s=1
+25.Museum of Royal Antiquities,4.0 of 5 bubbles,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/e1/4c/4c/museum-of-royal-antiquities.jpg?w=500&h=-1&s=1
+26.Le Ba Dang Art Museum,4.5 of 5 bubbles,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/d8/5b/f9/le-ba-dang-art-museum.jpg?w=500&h=400&s=1
+27.Cat Tuong Quan Zen House,4.5 of 5 bubbles,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/dd/05/d6/cat-tuong-quan-zen-house.jpg?w=500&h=400&s=1
+28.Dong Ba Market,3.5 of 5 bubbles,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/25/e1/13/fruits-et-legumes-bien.jpg?w=500&h=-1&s=1
+29.The Flag Tower,3.5 of 5 bubbles,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/5f/34/a7/p1150712-largejpg.jpg?w=500&h=-1&s=1
+30.XQ Hand Embroidery,5.0 of 5 bubbles,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/fa/b5/7e/amazing-detail-hand-embroidere.jpg?w=500&h=-1&s=1

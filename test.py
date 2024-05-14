@@ -48,6 +48,23 @@ for div in soup.find_all("div", {"class": "alPVI eNNhq PgLKC tnGGX"}):
         "name": name,
         "rating": rating
     })
+img_urls = []
+
+# Sử dụng vòng lặp để tìm tất cả các thẻ <picture> với lớp phù hợp
+for picture in soup.find_all("li", class_="CyFNY _A MBoCH"):
+    img_tag = picture.find('img')
+    if img_tag:
+        img_src = img_tag.get('src')
+        img_urls.append(img_src)
+        print("Image URL from src attribute:", img_src)
+
+if len(data) != len(img_urls):
+    raise ValueError("Số phần tử trong 'data' và 'img_urls' không khớp")
+
+for i in range(len(data)):
+    data[i]["image"] = img_urls[i]
 
 df = pd.DataFrame(data)
 df.to_csv("search_results.csv", index=False)
+
+
